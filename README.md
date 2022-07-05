@@ -1,18 +1,20 @@
-# 1. **Plagiarism-checker: A web application helps people check plagiarism in their text.**
+# **Plagiarism-checker: A web application helps people check plagiarism in their text.**
+
+# **Table of Contents**
+
+- [**Plagiarism-checker: A web application helps people check plagiarism in their text.**](#plagiarism-checker-a-web-application-helps-people-check-plagiarism-in-their-text)
+- [**Table of Contents**](#table-of-contents)
+  - [1. Installation**](#1-installation)
+  - [2. Usage](#2-usage)
 
 
-- [1. **Plagiarism-checker: A web application helps people check plagiarism in their text.**](#1-plagiarism-checker-a-web-application-helps-people-check-plagiarism-in-their-text)
-  - [1.1. **Step 1: Installation**](#11-step-1-installation)
-  - [1.2. Step 2:](#12-step-2)
-
-
-## 1.1. **Step 1: Installation**
+## 1. Installation**
 
 ```
 pip install -r requirements.txt
 ```
 
-## 1.2. Step 2: 
+## 2. Usage
 
 ```
 python daovan.py
