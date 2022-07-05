@@ -12,7 +12,7 @@
 pip install -r requirements.txt
 ```
 
-## Step 2: 
+## **Step 2: Usage**
 ```
 python daovan.py
 ```
